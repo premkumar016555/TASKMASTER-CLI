@@ -1,0 +1,15 @@
+# Task-related files
+tasks.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Environments
+.env
+.venv
+venv/
+env/
